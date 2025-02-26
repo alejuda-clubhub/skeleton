@@ -107,6 +107,17 @@ export type ThemeProperties = {
 	'--color-warning-700': string;
 	'--color-warning-800': string;
 	'--color-warning-900': string;
+	/* informative */
+	'--color-informative-50'?: string;
+	'--color-informative-100'?: string;
+	'--color-informative-200'?: string;
+	'--color-informative-300'?: string;
+	'--color-informative-400'?: string;
+	'--color-informative-500'?: string;
+	'--color-informative-600'?: string;
+	'--color-informative-700'?: string;
+	'--color-informative-800'?: string;
+	'--color-informative-900'?: string;
 	/* error */
 	'--color-error-50': string;
 	'--color-error-100': string;

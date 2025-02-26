@@ -1,7 +1,7 @@
 // Common Shared Settings and Constants
 
 export const settings = {
-	colorNames: ['primary', 'secondary', 'tertiary', 'success', 'warning', 'error', 'surface'],
+	colorNames: ['primary', 'secondary', 'tertiary', 'success', 'warning', 'error', 'surface', 'informative'],
 	colorShades: [50, 100, 200, 300, 400, 500, 600, 700, 800, 900],
 	colorPairings: [
 		// forward:

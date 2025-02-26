@@ -110,11 +110,23 @@ export const swatchColorClasses: Record<SemanticNames, Record<TailwindNumbers, s
 		200: 'bg-error-200',
 		300: 'bg-error-300',
 		400: 'bg-error-400',
-		500: 'bg-error-500 text-on-error-token fill-on-primary-token',
+		500: 'bg-error-500 text-on-error-token fill-on-error-token',
 		600: 'bg-error-600',
 		700: 'bg-error-700',
 		800: 'bg-error-800',
 		900: 'bg-error-900'
+	},
+	informative: {
+		50: 'bg-informative-50',
+		100: 'bg-informative-100',
+		200: 'bg-informative-200',
+		300: 'bg-informative-300',
+		400: 'bg-informative-400',
+		500: 'bg-informative-500 text-on-informative-token fill-on-informative-token',
+		600: 'bg-informative-600',
+		700: 'bg-informative-700',
+		800: 'bg-informative-800',
+		900: 'bg-informative-900'
 	},
 	surface: {
 		50: 'bg-surface-50',
