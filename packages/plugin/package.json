@@ -1,7 +1,7 @@
 {
-	"name": "@skeletonlabs/tw-plugin",
-	"version": "0.4.1",
-	"description": "Core plugin for Skeleton.",
+	"name": "@clubhub/skeleton-plugin",
+	"version": "0.0.1",
+	"description": "Clubhub fork - Core plugin for Skeleton.",
 	"scripts": {
 		"build": "tsx ./scripts/generate-jss.ts && tsup",
 		"sync": "pnpm build:jss && tsup",
